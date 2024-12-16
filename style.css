@@ -41,7 +41,7 @@ body {
   padding: 0px;
 }
 .task-list__item,
-h3{
+.task-list__heading{
   list-style: none;
 }
 input,
@@ -63,7 +63,7 @@ button:hover {
   color: #3a3a3a;
 }
 /* Heading */
-h3,
+.task-list__heading,
 .task-add__heading {
   color: #333;
   font-weight: 700;
